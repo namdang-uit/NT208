@@ -14,7 +14,7 @@
 - dòng 14 giá trị discountPercent là 10/100 thay vì 10 
 - dòng 16 sửa shippingFee để phù hợp với yêu cầu (free cho những đơn hàng lớn) 
 
-### includes/orders.php
+### pages/orders.php
 - dòng 6 chỉnh điều kiện là === 'pending' thay vì != 'completed'
 - dòng 12 thay vì sort tăng dần theo id thì sort đơn giảm dần theo id (newest first) 
 
